@@ -2,7 +2,9 @@
 Start Docker with Linux
 
 ---
-##도커 설치하기
+## 도커 설치하기
+
+설치에 관한 좀 더 자세한 [문서](docker_install.md)
 
 자동 설치 스크립트
 
